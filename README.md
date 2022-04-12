@@ -56,7 +56,8 @@ Resources
   - CSV file
   - Many others
 
-Image below from: https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html![](https://i.imgur.com/YPRhTds.png)
+Image below from: https://www.elastic.co/guide/en/beats/libbeat/current/beats-reference.html
+![](https://i.imgur.com/YPRhTds.png)
 
 ### Elasticsearch
 
