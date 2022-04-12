@@ -188,8 +188,7 @@ Image below from: https://www.elastic.co/guide/en/beats/libbeat/current/beats-re
 
 ## [Presentation Link](https://docs.google.com/presentation/d/e/2PACX-1vRK9nqjKt_cyc9jJUBiQne398hHJSL7I3k33DLeTv3nyzQ290kVKKdMz4nztqaWAKfHpDG_zeOD2nBC/pub?start=false&loop=false&delayms=3000)
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK9nqjKt_cyc9jJUBiQne398hHJSL7I3k33DLeTv3nyzQ290kVKKdMz4nztqaWAKfHpDG_zeOD2nBC/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![](https://docs.google.com/presentation/d/e/2PACX-1vRK9nqjKt_cyc9jJUBiQne398hHJSL7I3k33DLeTv3nyzQ290kVKKdMz4nztqaWAKfHpDG_zeOD2nBC/embed?start=false&loop=false&delayms=10000)
 
 ## Other Notes and Information
 
