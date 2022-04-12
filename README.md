@@ -32,13 +32,6 @@
 - Winlogbeat: Windows event logs
 - Auditbeat: Similar to Winlog but for Linux platforms
 
-Resources
-
-- https://www.objectrocket.com/resource/what-are-elasticsearch-beats/
-- https://www.elastic.co/beats/
-- Downloads: https://www.elastic.co/downloads/beats/
-- Documentation: https://www.elastic.co/guide/en/beats/libbeat/current/index.html
-
 ### Logstash
 
 - A data processing pipeline that ingests data from multiple sources, transforms it, and sends it to a specific “stash”
@@ -182,6 +175,7 @@ Image below from: https://www.elastic.co/guide/en/beats/libbeat/current/beats-re
   - [A brief introduction to Elastick Stack](https://hackernoon.com/elastic-stack-a-brief-introduction-794bc7ff7d4f)
   - [The Complete Guide to ELK STACK](https://logz.io/learn/complete-guide-elk-stack/#installing-elk)
   - [Python tutorial](https://www.freecodecamp.org/news/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de/)
+  - [What are Elasticsearch Beats?](https://www.objectrocket.com/resource/what-are-elasticsearch-beats/)
 - Alternatives:
   - [Comparably](https://www.comparably.com/companies/366173/competitors)
   - [Splunk versus Elastic Stack](https://devops.com/splunk-elk-stack-side-side-comparison/)
